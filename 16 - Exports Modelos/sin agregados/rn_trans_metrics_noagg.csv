@@ -1,0 +1,6 @@
+Métricas,RN + target normalizado,RN + inputs/target normalizado
+R² test,0.939,0.937
+R² adjusted test,0.936,0.906
+RMSE test,343.0,347.0
+MAE test,162.0,157.0
+MAPE test,0.18,0.17

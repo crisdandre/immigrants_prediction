@@ -1,0 +1,15 @@
+Modelo,RSME train,RSME test
+Lineal,1129.0,966.0
+Lineal - Huber,1370.0,1125.0
+Lineal - RANSAC,6897.0,3373.0
+Lineal - Theilsen,1419.0,1198.0
+Lineal - Ridge,,965.0
+Lineal - Lasso,,963.0
+Lineal - E-Net,,1125.0
+Decision Tree,908.0,927.0
+Random Forest,742.0,672.0
+KNN,861.0,762.0
+SVR,1585.0,1332.0
+Red Neuronal,290.0,413.0
+HGB,213.0,321.0
+XGBoost,232.0,465.0

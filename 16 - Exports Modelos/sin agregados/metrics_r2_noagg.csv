@@ -1,0 +1,15 @@
+Modelo,R² train,R² test
+Lineal,0.52,0.513
+Lineal - Huber,0.293,0.34
+Lineal - RANSAC,-16.904,-4.94
+Lineal - Theilsen,0.242,0.251
+Lineal - Ridge,,0.514
+Lineal - Lasso,,0.516
+Lineal - E-Net,,0.339
+Decision Tree,0.69,0.551
+Random Forest,0.793,0.765
+KNN,0.721,0.697
+SVR,0.055,0.074
+Red Neuronal,0.968,0.911
+HGB,0.981,0.957
+XGBoost,0.978,0.91

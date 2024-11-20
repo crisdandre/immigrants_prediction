@@ -1,0 +1,15 @@
+Modelo,MAE train,MAE test
+Lineal,1773.0,1818.0
+Lineal - Huber,1306.0,1372.0
+Lineal - RANSAC,1653.0,1745.0
+Lineal - Theilsen,1575.0,1557.0
+Lineal - Ridge,,1800.0
+Lineal - Lasso,,1797.0
+Lineal - E-Net,,2293.0
+Decision Tree,903.0,1125.0
+Random Forest,752.0,910.0
+KNN,1019.0,1136.0
+SVR,1659.0,1758.0
+Red Neuronal,522.0,629.0
+HGB,294.0,432.0
+XGBoost,302.0,572.0

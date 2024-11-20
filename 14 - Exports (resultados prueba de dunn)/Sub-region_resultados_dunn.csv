@@ -1,0 +1,22 @@
+Grupo 1,Grupo 2,p-valor,Diferencias?
+Africa,Asia,1.0,No
+Africa,Central America and Caribbean,0.008473526532300137,Si
+Africa,European Union,5.513440005618983e-12,Si
+Africa,North America,0.0043359153668402015,Si
+Africa,Rest of Europe,3.4372379680565365e-06,Si
+Africa,South America,4.321136877501764e-05,Si
+Asia,Central America and Caribbean,0.13391116014518495,No
+Asia,European Union,3.1318452216032245e-10,Si
+Asia,North America,0.026793784252480905,Si
+Asia,Rest of Europe,9.000988514184935e-06,Si
+Asia,South America,0.0001362301317302056,Si
+Central America and Caribbean,European Union,6.837386649721988e-33,Si
+Central America and Caribbean,North America,1.0,No
+Central America and Caribbean,Rest of Europe,1.3633777119235968e-18,Si
+Central America and Caribbean,South America,3.0590280707996015e-20,Si
+European Union,North America,4.315469612314219e-17,Si
+European Union,Rest of Europe,1.0,No
+European Union,South America,0.013892098849636833,Si
+North America,Rest of Europe,2.5791850487875253e-12,Si
+North America,South America,3.186091930718275e-11,Si
+Rest of Europe,South America,1.0,No

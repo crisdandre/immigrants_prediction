@@ -1,0 +1,7 @@
+Grupo 1,Grupo 2,p-valor,Diferencias?
+Africa,America,1.0,No
+Africa,Asia,1.0,No
+Africa,Europe,1.6223034856367236e-12,Si
+America,Asia,1.0,No
+America,Europe,6.567824168653236e-21,Si
+Asia,Europe,1.5645771257823985e-10,Si

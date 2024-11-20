@@ -1,0 +1,15 @@
+Modelo,MAPE train,MAPE test
+Lineal,3.3,2.57
+Lineal - Huber,0.97,0.83
+Lineal - RANSAC,0.87,0.8
+Lineal - Theilsen,2.82,2.06
+Lineal - Ridge,,2.56
+Lineal - Lasso,,2.53
+Lineal - E-Net,,2.37
+Decision Tree,0.59,0.68
+Random Forest,0.74,0.79
+KNN,0.87,0.96
+SVR,0.89,0.89
+Red Neuronal,0.57,0.57
+HGB,0.23,0.29
+XGBoost,0.6,0.98
